@@ -1,0 +1,27 @@
+***********
+indices
+***********
+
+S&P500 - ^SPX
+NASDAQ - ^IXIC
+IPC - ^MXX
+STOXX 600 - ^STOXX*
+DAX - ^GDAXI*
+CAC 40 - ^FCHI*
+Vix - ^VIX
+
+**********
+SECTORS
+**********
+
+S&P 500 Technology sector - XLK
+S&P 500 Financial sector - XLF
+S&P 500 Health Care sector - XLV
+S&P 500 Energy sector - XLE
+S&P 500 Communication sector - XLC
+S&P 500 Consumer Discretionary Sector - XLY 
+S&P 500 Consumer Staples sector - XLP
+S&P 500 Industrial sector - XLI 
+S&P 500 Materials sector - XLB
+S&P 500 Real State sector - XLRE
+S&P 500 Utilities sector - XLU
